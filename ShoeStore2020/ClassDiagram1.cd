@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ShoeStore2020.Model.Sales">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="ShoeStore2020.Model.Sales.SaleDetails">
+        <TypeIdentifier>
+          <NewMemberFileName>Model\Sales.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CAQQBAAAAAABQAAAAQAIAAAAgAAAAAAAAAAAQAAAEEA=</HashCode>
+      <FileName>Model\Sales.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ShoeStore2020.Model.Suppliers">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAAgBAAAAAQACAAAAAgAAAAAAAAgAAAAIAAAAAgAIA=</HashCode>
+      <FileName>Model\Suppliers.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ShoeStore2020.Model.Orders">
+    <Position X="12" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAAgBAAAAAQACAAAAAgAAAAAAAAgAAAAIAAABAAAIA=</HashCode>
+      <FileName>Model\Orders.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ShoeStore2020.Model.Products">
+    <Position X="9.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GCAAABAABSAAgAAAAAAAAAAAAAQABICQAQAAEAAhCAQ=</HashCode>
+      <FileName>Model\Products.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
